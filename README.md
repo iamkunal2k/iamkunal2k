@@ -15,7 +15,7 @@
     <a href="https://www.codechef.com/users/iamkunal2k" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="iamkunal2k" height="30"
             width="40" /></a>
-</p>
+</p> <br>
 
 <h3 align="left">Programming Languages</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
@@ -32,9 +32,9 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" /> </a>
 </p>
-
-<h3>Frontend Development</h3>
-<p><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
+<br>
+<h3 align="center">Frontend Development</h3>
+<p align="center"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
         rel="noreferrer"> <img
@@ -45,24 +45,25 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a> </p>
-
-<h3>Backend Development</h3>
-<p><a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<br>
+<h3 align="center">Backend Development</h3>
+<p align="center"><a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" /> </a>
 </p>
-<h3>Database</h3>
-<p><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+<br>
+<h3 align="center">Database</h3>
+<p align="center"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /> </a><a href="https://www.postgresql.org" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-            alt="postgresql" width="40" height="40" /> </a>
-<h3>Other Tools and Framework</h3>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+            alt="postgresql" width="40" height="40" /> </a> </p> <br>
+<h3 align="center">Other Tools and Framework</h3>
+<p align="center"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
         alt="docker" width="40" height="40" /> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
@@ -77,13 +78,13 @@
         width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
 </a> </p>
-
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkunal2k&show_icons=true&locale=en&layout=compact"
+<br>
+<p align="center"><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkunal2k&theme=tokyonight&langs_count=12&layout=compact&show_icons=true&locale=en&layout=compact"
         alt="iamkunal2k" /></p>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=iamkunal2k&show_icons=true&locale=en"
+<p align="center">&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=iamkunal2k&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
         alt="iamkunal2k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkunal2k&" alt="iamkunal2k" />
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkunal2k&theme=tokyonight&langs_count=12&layout=compact" alt="iamkunal2k" />
