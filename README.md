@@ -80,7 +80,7 @@
 </a> </p>
 <br>
 <p align="center"><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkunal2k&theme=tokyonight&langs_count=12&layout=compact&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkunal2k&theme=tokyonight&langs_count=12&layout=compact&show_icons=true&locale=en&layout=compact&hide=html,css"
         alt="iamkunal2k" /></p>
 
 <p align="center">&nbsp;<img align="center"
