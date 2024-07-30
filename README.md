@@ -80,9 +80,12 @@
 </a> </p>
 <br>
 
-
 <p align="center">&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=iamkunal2k&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkunal2k&theme=prussian&show_icons=true&hide_border=false&layout=compact"
         alt="iamkunal2k" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkunal2k&theme=tokyonight&langs_count=12&layout=compact" alt="iamkunal2k" />
+<p align="center">&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=iamkunal2k&theme=prussian&show_icons=true&hide_border=false&count_private=true"
+        alt="iamkunal2k" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamkunal2k&theme=prussian&hide_border=false" alt="iamkunal2k" />
