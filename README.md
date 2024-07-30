@@ -79,9 +79,7 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" />
 </a> </p>
 <br>
-<p align="center"><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkunal2k&theme=tokyonight&langs_count=12&layout=compact&show_icons=true&locale=en&layout=compact&hide=html,css"
-        alt="iamkunal2k" /></p>
+
 
 <p align="center">&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=iamkunal2k&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
